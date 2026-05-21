@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "nombre": "Oso Gigante",
+    "descripcion": "Osito amoroso para que Sophia pueda dormir abrazadita",
+    "precio": 29.99,
+    "imagen": "/img/osito.jpg",
+    "url": "https://www.amazon.es/BRUBAKER-Osito-Peluche-100-Altura/dp/B081VGVJGZ/ref=asc_df_B081VGVJGZ?mcid=511dbea32e8f30cf9487f05ce1cf9872&tag=googshopes-21&linkCode=df0&hvadid=807278226682&hvpos=&hvnetw=g&hvrand=6312130008783139515&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9221779&hvtargid=pla-2482415764050&hvocijid=6312130008783139515-B081VGVJGZ-&hvexpln=m-es73exp1&hvsb=powerasin&th=1",
+    "reservado": false
+  },
+  {
+    "id": 2,
+    "nombre": "Baletas Puma",
+    "descripcion": "Lleva pidiendo las baletas mucho tiempo, ruego que alguien haga el favor",
+    "precio": 50.95,
+    "imagen": "/img/baletas.webp",
+    "url": "https://www.zalando.es/puma-speedcat-unisex-bailarinas-con-hebilla-blackwhitewarm-white-pu116d0y4-q11.html",
+    "reservado": false
+  },
+  {
+    "id": 3,
+    "nombre": "Altavoz Alexa",
+    "descripcion": "No se pa que quiere esto, pero bueno en verdad mola",
+    "precio": 64.99,
+    "imagen": "/img/alexa.jpg",
+    "url": "https://www.amazon.es/dp/B09B94956P?ref=cm_sw_r_cso_wa_apin_dp_NE9XKNNKBJ6PZKQCZNK6&ref_=cm_sw_r_cso_wa_apin_dp_NE9XKNNKBJ6PZKQCZNK6&social_share=cm_sw_r_cso_wa_apin_dp_NE9XKNNKBJ6PZKQCZNK6&th=1",
+    "reservado": false
+  },
+  {
+    "id": 4,
+    "nombre": "Perfume JIMMY CHOO",
+    "descripcion": "Perfume para que la niña huela rico",
+    "precio": 31.95,
+    "imagen": "/img/jimmy chu.jpg",
+    "url": "https://www.druni.es/want-choo-forever-jimmy-choo-eau-parfum-mujer",
+    "reservado": false
+  },
+  {
+    "id": 5,
+    "nombre": "Perfume TOUS",
+    "descripcion": "Otro perfume porque dos es mejor que uno",
+    "precio": 23.95,
+    "imagen": "/img/tous carapollen.jpg",
+    "url": "https://www.druni.es/loveme-the-onyx-tous-eau-parfum-mujer",
+    "reservado": false
+  },
+  {
+    "id": 6,
+    "nombre": "Falda Vaquera",
+    "descripcion": "Para el veranito fresquito",
+    "precio": 22.99,
+    "imagen": "/img/falda vaquera.webp",
+    "url": "https://www.stradivarius.com/es/d62-falda-pantalon-denim-l01283422?colorId=700&style=0&categoryId=0",
+    "reservado": false
+  },
+  {
+    "id": 7,
+    "nombre": "Falda Pantalon",
+    "descripcion": "Falda bonita con short en el interior para los mirones",
+    "precio": 22.99,
+    "imagen": "/img/falda.jpg",
+    "url": "https://www.stradivarius.com/es/d62-falda-pantalon-denim-l01283422?colorId=003&style=0&categoryId=0",
+    "reservado": false
+  },
+  {
+    "id": 8,
+    "nombre": "Top Tirantes",
+    "descripcion": "Prenda basica, bonita y barata",
+    "precio": 8.99,
+    "imagen": "/img/top.jpg",
+    "url": "https://www.bershka.com/es/mujer/ropa/tops-y-bodies/top-tirantes-peplum-c1010193220p206589736.html?colorId=250",
+    "reservado": false
+  }
+]
