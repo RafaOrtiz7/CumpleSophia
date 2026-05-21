@@ -1,7 +1,7 @@
 export const GiftCard = ({ regalo, onReservaChange }) => {
   const { id, nombre, descripcion, precio, imagen, url, reservado, reservadoPorUsuario } = regalo;
 
-  const miTelefono = "34600000000"; // Pon tu número real aquí
+  const miTelefono = "34631640021"; // Pon tu número real aquí
 
   // Un regalo está bloqueado si ya venía reservado en el JSON o si el usuario lo acaba de pedir
   const yaEstaReservado = reservado || reservadoPorUsuario;
